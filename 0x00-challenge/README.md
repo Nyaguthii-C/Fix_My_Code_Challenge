@@ -1,6 +1,4 @@
 
-## Project: 0x00. Fix my code
-- **Debugging** code in the [0x00. Fix my code](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge) repository
 ## Tasks
 - [0-fizzbuzz.py](https://github.com/Nyaguthii-C/Fix_My_Code_Challenge/blob/main/0x00-challenge/0-fizzbuzz.py) - debugging fizzbuzz implementation in python
 - [1-print_square.js]() - debugging the implementation of printing a square in Javascript
